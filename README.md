@@ -5,7 +5,10 @@
 ## 安装
 
 ```bash
+git clone https://github.com/CCCCOOH/sync-cli-node.git
+cd sync-cli-node
 npm install
+npm link  
 ```
 
 ## 可用命令
